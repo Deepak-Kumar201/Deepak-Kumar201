@@ -1,8 +1,6 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
 <h1 align="center"> Hi! 👋,  I'm Deepak Kumar </h1>
 
-<center><img src="./images/profile.jpg" width="200xp"></center>
+<p align="center"><img src="./images/profile.jpg" width="200xp"></p>
 
 ---
 
@@ -21,20 +19,12 @@
 
 <br/>
 
----
-
-<br/>
-
 > ## Skills
 > <img src="./images/java.png" height="30px" style="margin-right:5px"><img src="./images/c.png" height="30px" style="margin-right:5px"><img src="./images/js.png" height="30px" style="margin-right:5px"><img src="./images/react.png" height="30px" style="margin-right:5px"><img src="./images/nodejs.png" height="30px" style="margin-right:5px"><img src="./images/mongodb.png" height="30px" style="margin-right:5px"><img src="./images/html.png" height="30px" style="margin-right:5px"><img src="./images/css.png" height="30px" style="margin-right:5px"><img src="./images/photoshop.png" height="30px" style="margin-right:5px"><img src="./images/firebase.png" height="30px" style="margin-right:5px"><img src="./images/heroku.png" height="30px" style="margin-right:5px">
 
 
 <br/>
 
----
-
-<br/>
-
-<center>
-<img src="https://github-readme-stats.vercel.app/api?username=Deepak-Kumar201&show_icons=true&theme=radical&count_private=true"><img src="http://github-readme-streak-stats.herokuapp.com/?user=Deepak-Kumar201&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
-</center>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Deepak-Kumar201&show_icons=true&theme=radical&count_private=true" width="380px"><img src="http://github-readme-streak-stats.herokuapp.com/?user=Deepak-Kumar201&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true"  width="380px">
+</p>
